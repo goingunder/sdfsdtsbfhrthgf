@@ -874,7 +874,7 @@ console.log("Running Bot Launcher!");
     dArc = [],
     dText = [],
     lines = [],
-    originalName = "Picks",
+    originalName = "Pick",
     sessionScore = 0,
     serverIP = "",
     interNodes = [],
